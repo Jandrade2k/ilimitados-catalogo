@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/ilimitados-catalogo/static/css/main.349238ab.css",
-    "main.js": "/ilimitados-catalogo/static/js/main.17e9f49c.js",
+    "main.css": "/ilimitados-catalogo/static/css/main.b3068a75.css",
+    "main.js": "/ilimitados-catalogo/static/js/main.47e605da.js",
+    "static/media/ilimitados.jpg": "/ilimitados-catalogo/static/media/ilimitados.073acced602b855588ba.jpg",
     "index.html": "/ilimitados-catalogo/index.html",
-    "main.349238ab.css.map": "/ilimitados-catalogo/static/css/main.349238ab.css.map",
-    "main.17e9f49c.js.map": "/ilimitados-catalogo/static/js/main.17e9f49c.js.map"
+    "main.b3068a75.css.map": "/ilimitados-catalogo/static/css/main.b3068a75.css.map",
+    "main.47e605da.js.map": "/ilimitados-catalogo/static/js/main.47e605da.js.map"
   },
   "entrypoints": [
-    "static/css/main.349238ab.css",
-    "static/js/main.17e9f49c.js"
+    "static/css/main.b3068a75.css",
+    "static/js/main.47e605da.js"
   ]
 }
